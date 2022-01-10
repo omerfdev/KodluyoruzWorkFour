@@ -1,0 +1,15 @@
+body {
+	text-align: center;
+	background-color: darkgrey;
+	
+}
+
+li {
+	display: inline-block;
+	text-align: center;
+}
+
+p {
+	text-align: center;
+}
+
